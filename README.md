@@ -1,6 +1,6 @@
 # Data Valet
 
-This repository holds all the code associated with fetching, retrieving, modifying and importing data related to [EB Wiki](https://ebwiki.org) from multiple sources, including:
+This repository will hold all the code associated with fetching, retrieving, modifying and importing data related to [EB Wiki](https://ebwiki.org) from multiple sources, including:
 * [The Counted](https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database)
 * [Killed By Police.net](http://killedbypolice.net/)
 * [Washington Post Police Shooting Database](https://www.washingtonpost.com/graphics/national/police-shootings/)
